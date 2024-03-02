@@ -1,6 +1,6 @@
 package banco;
 
-import dto.RespuestaPorcentaje;
+import banco.dto.RespuestaPorcentaje;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import java.util.List;

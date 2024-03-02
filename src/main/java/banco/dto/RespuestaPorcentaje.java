@@ -1,4 +1,4 @@
-package dto;
+package banco.dto;
 
 import java.util.Arrays;
 

@@ -1,6 +1,6 @@
 package banco;
 
-import dto.RespuestaPorcentaje;
+import banco.dto.RespuestaPorcentaje;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
